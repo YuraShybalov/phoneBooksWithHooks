@@ -1,0 +1,17 @@
+.form {
+  width: 500px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border: 2px solid #000;
+
+  label {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+  }
+}
+.buttonSubmit {
+  max-width: 100px;
+}
